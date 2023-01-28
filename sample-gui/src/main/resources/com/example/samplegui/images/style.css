@@ -1,0 +1,64 @@
+.main-pane{
+    -fx-background-color : #ebeef4;
+    -fx-border-radius: 30px;
+    -fx-background-radius: 30px;
+    -fx-border-width: 3px;    
+}
+.left-pane{
+    -fx-background-color : #353a55;
+    -fx-border-radius: 30px;
+    -fx-background-radius: 28px;
+    -fx-border-width: 3px; 
+}
+.logo-pane{
+    -fx-background-color : #738cf2;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-border-width: 3px; 
+}
+.button1
+{
+    -fx-background-color : #353a55;
+}
+.button1:hover{
+    -fx-background-color : #303551;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-width: 3px; 
+    -fx-text-fill: rgb(255, 255, 255);
+}
+.button1:pressed{
+    -fx-background-color : #303551;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-width: 3px; 
+    -fx-text-fill: rgb(255, 255, 255);
+}
+.pane-left-1
+{
+    -fx-background-color : #738cf2;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-width: 3px; 
+}
+.pane-left-2
+{
+    -fx-background-color : #ffffff;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-width: 3px; 
+}
+.pane-left-3
+{
+    -fx-background-color : #fd9898;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-width: 3px; 
+}
+.pane-mockup
+{
+    -fx-background-color : #ffffff;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-border-width: 3px; 
+}
